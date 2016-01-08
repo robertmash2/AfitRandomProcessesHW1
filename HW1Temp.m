@@ -1,7 +1,7 @@
 % Add sections headings with %%
 % Add PARAM cases for function
 % Vectorize for two intervals (a,b)
-
+% Minor change on line 4!
 clear; close all; clc; 
 rng('default');
 t_start = 0;                    % start time 
